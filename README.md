@@ -8,6 +8,8 @@ Things you may want to cover:
 * Ruby version
 
 * System dependencies
+  * Install node.js
+  * Install yarn: `brew install yarn --without-node`
 
 * Configuration
 
